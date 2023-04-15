@@ -5,7 +5,7 @@
 RH_ASK driver(2000, 2, 4, 5);
 
 int lastMillis;
-char *comp_word = "toggle-s01";
+char *comp_word = "swtoggleonmydoorlamp";
 const int SWITCH = 0;
 const int LED = 15;
 
