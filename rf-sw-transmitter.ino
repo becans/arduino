@@ -6,7 +6,7 @@
 RH_ASK driver(2000, 4, 2, 5);
 
 int retry = 3;
-const char *msg = "toggle-s01";
+const char *msg = "swtoggleonmydoorlamp";
 
 void setup()
 {
